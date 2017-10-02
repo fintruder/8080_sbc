@@ -46,7 +46,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 7
+Sheet 2 9
 Title "8080 Single Board Computer"
 Date "2017-09-30"
 Rev "0.1"

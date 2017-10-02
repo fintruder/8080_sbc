@@ -46,7 +46,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 7
+Sheet 4 9
 Title "8080 Single Board Computer"
 Date "2017-09-30"
 Rev "0.1"
@@ -376,4 +376,32 @@ Text GLabel 8800 1650 2    60   Input ~ 0
 A_PA6
 Text GLabel 8800 1750 2    60   Input ~ 0
 A_PA7
+Text GLabel 8800 1950 2    60   Input ~ 0
+A_PB0
+Text GLabel 8800 2050 2    60   Input ~ 0
+A_PB1
+Text GLabel 8800 2150 2    60   Input ~ 0
+A_PB2
+Text GLabel 8800 2250 2    60   Input ~ 0
+A_PB3
+Text GLabel 8800 2350 2    60   Input ~ 0
+A_PB4
+Text GLabel 8800 2450 2    60   Input ~ 0
+A_PB5
+Text GLabel 8800 2550 2    60   Input ~ 0
+A_PB6
+Text GLabel 8800 2650 2    60   Input ~ 0
+A_PB7
+$Sheet
+S 4600 8350 3800 2500
+U 59D83EF6
+F0 "Video" 59
+F1 "8080_video.sch" 59
+$EndSheet
+Text Notes 2050 9550 0    118  ~ 0
+KEYPAD
+Text Notes 6300 9600 0    118  ~ 0
+VIDEO
+Text Notes 9350 1450 0    60   ~ 0
+KEYBOARD IN
 $EndSCHEMATC
